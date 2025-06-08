@@ -44,7 +44,7 @@ Run the script using the command:
 4. String concatenation and output formatting
 
 📁 Repository Structure
-📁 your-repo-name/
+📁 TuteDude-Assignment_1/
 ├── Task1.py   # Contains basic arithmetic operations
 └── Task2.py   # Contains a simple greeting based on user input
 
